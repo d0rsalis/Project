@@ -1,0 +1,13 @@
+E:\kurs\chessXcheckers\chessXcheckers\bin\Debug\chessXcheckers.exe.config
+E:\kurs\chessXcheckers\chessXcheckers\bin\Debug\chessXcheckers.exe
+E:\kurs\chessXcheckers\chessXcheckers\bin\Debug\chessXcheckers.pdb
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.Properties.Resources.resources
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.csproj.GenerateResource.cache
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.csproj.CoreCompileInputs.cache
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.exe
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.pdb
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.Form1.resources
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.Form2.resources
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\CheckersGame.Form3.resources
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.Form4.resources
+E:\kurs\chessXcheckers\chessXcheckers\obj\Debug\chessXcheckers.csprojAssemblyReference.cache
